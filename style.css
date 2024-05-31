@@ -1,0 +1,16 @@
+.background {
+    background-color: aqua;
+}
+
+.button-align {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.button-style{
+    width: 200px;
+    height: 50px;
+    font-style: 20px;
+    font-weight: 700;
+}
